@@ -61,6 +61,7 @@ I'm motivated by the potential of technology to transform lives and businesses. 
     </a>
     </p>
 <hr>
+
 ### Education
 
 **🎓 B.Sc. (Hons) in Computer Science & Engineering**  
@@ -68,16 +69,21 @@ July 2022 – March 2023
 Green University of Bangladesh, Mirpur, Dhaka
 - Degree: B.Sc. in Computer Science and Engineering
   
-### Experience
+### 👨‍💼 Experience
 
-**👨‍💻 Software Engineer (Intern)**  
-July 2022 – November 2022  
-Astha IT, Shiddheswari, Dhaka
+**Software Engineer**  
+June 2023 – July 2023  
+Al Fatah Publication 
+- Worked on an ERP project
+- Utilized technologies: ASP .NET, MS SQL Server
 
-- Worked on an E-commerce project
-- Utilized technologies: .NET Core, React
+**Software Engineer Trainee**
+Augutst 2023 - Current 
+BJIT Limited 
+- Working on back end projects
+- Technologies: Java, Spring, JPA, JDBC, React JS
 
-### Projects
+### 📁 Projects
 
 **🔍 Alhashor (Text Search Engine)**
 
@@ -106,6 +112,8 @@ Full stack fitness tracker web application built with .NET Core Web API and Reac
 
 - Key tech stack: .NET Core, MS SQL, JWT authentication, React JS, Bootstrap, Dashboard
 - [Source Code](https://github.com/feehaam/Fitness_Tracker) (Under Development)
+
+<hr>
 
 <h3 align="center">Technologies I've been working on</h3>
 <p align="center">(Sorted by skill level from left to right)</p>
