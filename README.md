@@ -12,17 +12,17 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
 
-- 🔭 I’m currently working on a web (back end) project.
+- 💼 I’m currently working on a web (back end) project.
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🧠 I’m currently learning **Java Spring Boot**
 
 - 💬 Ask Me About Spring Boot, Java, C#, .NET Core, React, Software Development, Git/Github
 I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
 
 
-- 📫 Email me at **mdfeeham@gmail.com**
+- 📧 Email me at **mdfeeham@gmail.com**
 
-- 📄 Know more about my skills & experiences in my
+- 📑 Know more about my skills & experiences in my
 **[resume](https://drive.google.com/file/d/1PNKHsnP7WL1qO8Wl6ERjPzeaHIGupeh2/view?usp=share_link)**.
 
 <hr>
