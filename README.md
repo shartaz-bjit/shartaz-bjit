@@ -23,7 +23,9 @@
 - 📄 Know more about my skills & experiences in my
 **[resume](https://drive.google.com/file/d/1PNKHsnP7WL1qO8Wl6ERjPzeaHIGupeh2/view?usp=share_link)**.
 
-  ### 🚀 My Journey So Far
+<hr>
+
+### 🚀 My Journey So Far
 
 I began my journey in the world of technology by learning .NET Core. However, I've since transitioned to working with Java EE, where I'm currently honing my skills. As a trainee at BJIT, I'm gaining hands-on experience and actively contributing to small learning projects.
 
