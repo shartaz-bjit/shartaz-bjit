@@ -73,13 +73,13 @@ Green University of Bangladesh, Mirpur, Dhaka
 
 **Software Engineer**  
 Al Fatah Publication 
-June 2023 – July 2023  
+- June 2023 – July 2023  
 - Worked on an ERP project
 - Utilized technologies: ASP .NET, MS SQL Server
 
 **Software Engineer Trainee**  
 BJIT Limited
-August 2023 - Present
+- August 2023 - Present
 - Working on back end projects
 - Technologies working with: Java, Spring, JPA, JDBC, React JS
 
