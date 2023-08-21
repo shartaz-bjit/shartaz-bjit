@@ -53,16 +53,60 @@ I'm motivated by the potential of technology to transform lives and businesses. 
     <a href="https://www.leetcode.com/feeham" target="blank">
         <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="feeham" height="25" />
     </a>
-    <br>
     <a href="https://www.hackerrank.com/Feeham" target="blank">
         <img align="center" src="https://www.theindianwire.com/wp-content/uploads/2018/02/hackerrank-logo.jpeg" alt="feeham" height="80" />
     </a>
-    <br>
     <a href="https://auth.geeksforgeeks.org/user/feeham/" target="blank">
         <img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="feeham" height="40" />
     </a>
     </p>
 <hr>
+### Education
+
+**🎓 B.Sc. (Hons) in Computer Science & Engineering**  
+July 2022 – March 2023  
+Green University of Bangladesh, Mirpur, Dhaka
+- Degree: B.Sc. in Computer Science and Engineering
+  
+### Experience
+
+**👨‍💻 Software Engineer (Intern)**  
+July 2022 – November 2022  
+Astha IT, Shiddheswari, Dhaka
+
+- Worked on an E-commerce project
+- Utilized technologies: .NET Core, React
+
+### Projects
+
+**🔍 Alhashor (Text Search Engine)**
+
+A website for a hadith search engine that enables users to search for keywords, text, hadith serial numbers, or specific paragraphs within a hadith. Implemented an optimized search process using the LCS algorithm for quick and efficient searches on a large text base.
+
+- Key tech stack: React JS, Data structures, Algorithms
+- [Live Demo](www.alhashor.com)
+
+**🛒 Food Delivery (Service Placement and Delivery Web API)**
+
+Developed an ASP.NET Core Web API for requesting deliveries of groceries, medicines, and other items, with tasks assigned to delivery personnel. Implemented a multi-model relational database using Entity Framework and PostgreSQL.
+
+- Key tech stack: ASP .NET Core, Entity Framework, N-Tier Architecture
+- [Source Code](https://github.com/feehaam/DeliveryService)
+
+**📚 Enroll It (Course Enroller Console App)**
+
+Console-based platform where teachers create courses and students enroll. Utilized object-oriented programming and design patterns to ensure a maintainable Java application.
+
+- Key tech stack: Swing for UI, JDBC and MySQL for database
+- [Source Code](https://github.com/feehaam/Online_Learning_Platform)
+
+**💪 Fitness Tracker (Full Stack Daily Activity and Health Tracker Web App)**
+
+Full stack fitness tracker web application built with .NET Core Web API and React JS. Users can track meals, water intake, and exercises, and view progress reports, statistics, and predictions.
+
+- Key tech stack: .NET Core, MS SQL, JWT authentication, React JS, Bootstrap, Dashboard
+- [Source Code](https://github.com/feehaam/Fitness_Tracker) (Under Development)
+
 <h3 align="center">Technologies I've been working on</h3>
 <p align="center">(Sorted by skill level from left to right)</p>
 <p align="left">
