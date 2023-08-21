@@ -66,7 +66,6 @@ I'm motivated by the potential of technology to transform lives and businesses. 
 
 **B.Sc. (Hons) in Computer Science & Engineering**  
 Green University of Bangladesh 
-- Mirpur, Dhaka
 - July 2022 – March 2023  
 - Degree: B.Sc. in Computer Science and Engineering
   
