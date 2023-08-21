@@ -2,7 +2,7 @@
 <h4 align="center">An active developer and a passionate programmer who love to write code 
     in different languages and purposes. Skilled with different development 
     platforms, interested in learning new technologies, systems and DSA; and looking 
-    forward to join a reputable organization to utilize my skills for the growth of the 
+    forward to have professional experiance to utilize my skills for the growth of the 
     organization as well as to extend my knowledge with new and emerging 
     technologies.</h4>
     <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding..." width="400" align="right" />
