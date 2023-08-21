@@ -80,11 +80,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p>
-<img src="https://raw.githubusercontent.com/feehaam/shartaz-bjit/output/snake.svg" alt="Snake animation" />
 </p>
-
-
-
 
 <hr>
 
@@ -92,4 +88,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shartaz-bjit&show_icons=true&locale=en"
         alt="feehaam" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shartaz-bjit&" alt="feehaam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shartaz-bjit&" alt="feehaam" />
+<hr>
+<img src="https://raw.githubusercontent.com/feehaam/shartaz-bjit/output/snake.svg" alt="Snake animation" />
+</p>
+
