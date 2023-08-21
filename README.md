@@ -81,6 +81,8 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p></p>
 
+<img src="https://raw.githubusercontent.com/feehaam/feehaam/output/snake.svg" alt="Snake animation" />
+
 
 <hr>
 
