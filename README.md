@@ -11,6 +11,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
+### 🚀 My Journey So Far
+
+I began my journey in the world of technology by learning .NET Core. However, I've since transitioned to working with Java EE, where I'm currently honing my skills. As a trainee at BJIT, I'm gaining hands-on experience and actively contributing to small learning projects.
+
+### 🌱 What Drives Me
+
+I'm motivated by the potential of technology to transform lives and businesses. I believe in continuous learning and innovation, and I'm excited to be a part of a dynamic industry that's constantly evolving.
 
 - 🔭 I’m currently working on a web (back end) project.
 
