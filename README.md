@@ -77,21 +77,13 @@ Al Fatah Publication
 - Worked on an ERP project
 - Utilized technologies: ASP .NET, MS SQL Server
 
-**Software Engineer Trainee**
-
+**Software Engineer Trainee** 
 Augutst 2023 - Current 
 BJIT Limited 
 - Working on back end projects
 - Technologies: Java, Spring, JPA, JDBC, React JS
 
 ### 📁 Projects
-
-**🔍 Alhashor (Text Search Engine)**
-
-A website for a hadith search engine that enables users to search for keywords, text, hadith serial numbers, or specific paragraphs within a hadith. Implemented an optimized search process using the LCS algorithm for quick and efficient searches on a large text base.
-
-- Key tech stack: React JS, Data structures, Algorithms
-- [Live Demo](www.alhashor.com)
 
 **🛒 Food Delivery (Service Placement and Delivery Web API)**
 
@@ -106,6 +98,13 @@ Console-based platform where teachers create courses and students enroll. Utiliz
 
 - Key tech stack: Swing for UI, JDBC and MySQL for database
 - [Source Code](https://github.com/feehaam/Online_Learning_Platform)
+
+**🔍 Alhashor (Text Search Engine)**
+
+A website for a hadith search engine that enables users to search for keywords, text, hadith serial numbers, or specific paragraphs within a hadith. Implemented an optimized search process using the LCS algorithm for quick and efficient searches on a large text base.
+
+- Key tech stack: React JS, Data structures, Algorithms
+- [Live Demo](www.alhashor.com)
 
 **💪 Fitness Tracker (Full Stack Daily Activity and Health Tracker Web App)**
 
