@@ -62,9 +62,9 @@ I'm motivated by the potential of technology to transform lives and businesses. 
     </p>
 <hr>
 
-### Education
+### 🎓 Education
 
-**🎓 B.Sc. (Hons) in Computer Science & Engineering**  
+**B.Sc. (Hons) in Computer Science & Engineering**  
 July 2022 – March 2023  
 Green University of Bangladesh, Mirpur, Dhaka
 - Degree: B.Sc. in Computer Science and Engineering
@@ -78,6 +78,7 @@ Al Fatah Publication
 - Utilized technologies: ASP .NET, MS SQL Server
 
 **Software Engineer Trainee**
+
 Augutst 2023 - Current 
 BJIT Limited 
 - Working on back end projects
