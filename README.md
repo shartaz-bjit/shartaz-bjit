@@ -11,13 +11,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
-### 🚀 My Journey So Far
-
-I began my journey in the world of technology by learning .NET Core. However, I've since transitioned to working with Java EE, where I'm currently honing my skills. As a trainee at BJIT, I'm gaining hands-on experience and actively contributing to small learning projects.
-
-### 🌱 What Drives Me
-
-I'm motivated by the potential of technology to transform lives and businesses. I believe in continuous learning and innovation, and I'm excited to be a part of a dynamic industry that's constantly evolving.
 
 - 🔭 I’m currently working on a web (back end) project.
 
@@ -25,10 +18,18 @@ I'm motivated by the potential of technology to transform lives and businesses. 
 
 - 💬 Ask me about **DSA, Java, React, .NET Core**
 
-- 📫 How to reach me **mdfeeham@gmail.com**
+- 📫 Email me at **mdfeeham@gmail.com**
 
 - 📄 Know more about my skills & experiences in my
 **[resume](https://drive.google.com/file/d/1PNKHsnP7WL1qO8Wl6ERjPzeaHIGupeh2/view?usp=share_link)**.
+
+  ### 🚀 My Journey So Far
+
+I began my journey in the world of technology by learning .NET Core. However, I've since transitioned to working with Java EE, where I'm currently honing my skills. As a trainee at BJIT, I'm gaining hands-on experience and actively contributing to small learning projects.
+
+### 🌱 What Drives Me
+
+I'm motivated by the potential of technology to transform lives and businesses. I believe in continuous learning and innovation, and I'm excited to be a part of a dynamic industry that's constantly evolving.
 
 <h3 align="left">Get me on</h3>
 <p align="left">
