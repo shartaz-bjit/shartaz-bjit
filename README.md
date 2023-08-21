@@ -149,7 +149,7 @@ Full stack fitness tracker web application built with .NET Core Web API and Reac
 <hr>
 
 <p align="center">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shartaz-bjit&show_icons=true&locale=en&layout=compact" alt="shartaz-bjit" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shartaz-bjit&show_icons=true&locale=en&layout=compact" alt="shartaz-bjit" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shartaz-bjit&show_icons=true&locale=en" alt="feehaam" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shartaz-bjit&" alt="feehaam" />
 <hr>
