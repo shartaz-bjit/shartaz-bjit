@@ -77,11 +77,11 @@ Al Fatah Publication
 - Worked on an ERP project
 - Utilized technologies: ASP .NET, MS SQL Server
 
-**Software Engineer Trainee** 
-Augutst 2023 - Current 
-BJIT Limited 
+**Software Engineer Trainee**  
+August 2023 - Present
+BJIT Limited
 - Working on back end projects
-- Technologies: Java, Spring, JPA, JDBC, React JS
+- Technologies working with: Java, Spring, JPA, JDBC, React JS
 
 ### 📁 Projects
 
