@@ -148,8 +148,7 @@ Full stack fitness tracker web application built with .NET Core Web API and Reac
 
 <hr>
 
-## Statistics
-
+<h3 align="center">Statistics</h3>
 <p align="center">&nbsp;
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shartaz-bjit" alt="shartaz-bjit" /></a>
     <br>
