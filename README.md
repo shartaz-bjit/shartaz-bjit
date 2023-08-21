@@ -16,7 +16,13 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **DSA, Java, React, .NET Core**
+- 💬 Ask Me About
+
+**Topics:** SDLC, Software Development Methodologies, Software Development Process, Git/GitHub
+**Technologies:** Spring Boot, Java, C#, .NET Core, React, Software Development
+
+I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
+
 
 - 📫 Email me at **mdfeeham@gmail.com**
 
