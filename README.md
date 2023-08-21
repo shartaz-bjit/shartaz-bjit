@@ -90,6 +90,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shartaz-bjit&" alt="feehaam" />
 <hr>
-<img src="https://raw.githubusercontent.com/feehaam/shartaz-bjit/output/snake.svg" alt="Snake animation" />
 </p>
 
