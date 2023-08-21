@@ -12,11 +12,11 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
 
-- 🔭 I’m currently working on a mobile app project.
+- 🔭 I’m currently working on a web (back end) project.
 
-- 🌱 I’m currently learning **ASP .NET core.**
+- 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **DSA, Java, React.**
+- 💬 Ask me about **DSA, Java, React, .NET Core**
 
 - 📫 How to reach me **mdfeeham@gmail.com**
 
